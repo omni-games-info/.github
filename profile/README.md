@@ -19,6 +19,6 @@ While I maintain the core code privately to ensure data integrity, Omni-Games is
 
 * **Got a Bug or Data Error?** Open an [Issue](https://github.com/omni-games-info/omni-games-community/issues).
 * **Want to chat about retro games?** Head over to [Discussions](https://github.com/omni-games-info/omni-games-community/discussions).
-* **See what's coming next:** Check out the [Public Roadmap](https://github.com/orgs/omni-games-info/projects/1).
+* **See what's coming next:** Check out the [Public Roadmap](https://github.com/orgs/omni-games-info/projects/1/views/4).
 
 Thanks for helping me rebuild a cleaner, more accurate gaming history!
