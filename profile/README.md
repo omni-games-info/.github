@@ -20,7 +20,7 @@ The foundation of this project is built upon two distinct, high-integrity databa
 * **OMNI_DAT:** Our technical metadata core. This captures the "DNA" of the files themselves (hashes, header info, and file-level details) for absolute accuracy in digital preservation.
 
 ### Collaborative Research
-While I maintain the core code privately to ensure data integrity, Omni-Games is a collaborative effort. I am building this for the collectors, the preservationists, and the obscure Japanese veterans. Your feedback and testing are what drive this project forward.
+While I maintain the core code privately to ensure data integrity, Omni-Games is a collaborative effort. I am building this for the collectors, the preservationists, and the obscure Japanese game veterans. Your feedback and testing are what drive this project forward.
 
 * **Got a Bug or Data Error?** Open an [Issue](https://github.com/omni-games-info/omni-games-community/issues).
 * **Want to chat about retro games?** Head over to [Discussions](https://github.com/omni-games-info/omni-games-community/discussions).
