@@ -34,4 +34,4 @@ I am developing a specialised toolkit to bridge the gap between OMNI_TITLES, OMN
 * **Omni1:** A high-precision 1G1R (1 Game 1 Region) tool for creating the "perfect" clean set.
 * **OmniScope:** A deep-dive metadata analyser to filter data based on user-defined criteria.
 * **OmniBridge:** A streamlined utility for managing and downloading ROM assets.
-* **OmniSelect:** A curation engine for building personalized collections for target storage devices.
+* **OmniSelect:** A curation engine for building personalised collections for target storage devices.
