@@ -28,7 +28,7 @@ While I maintain the core code privately to ensure data integrity, Omni-Games is
 
 Thanks for helping me rebuild a cleaner, more accurate gaming history!
 
-### 🚀 The Omni-Suite
+### The Omni-Suite
 I am developing a specialised toolkit to bridge the gap between OMNI_TITLES, OMNI_DAT and your local library:
 
 * **Omni1:** A high-precision 1G1R (1 Game 1 Region) tool for creating the "perfect" clean set.
