@@ -10,9 +10,14 @@ The internet is currently cluttered with fragmented, ad-riddled, and inaccurate 
 
 ### The Ecosystem
 This organisation houses the various components that power Omni-Games:
-* **Core Website:** Our centralized reference hub for collectors and researchers.
-* **Modular Tools:** Custom-built utilities designed to make exploring retro data effortless and fun.
+* **Core Website:** Our centralised reference hub for collectors and researchers.*
+* **Modular Online Tools:** Custom-built utilities designed to make exploring retro data effortless and fun.
 * **Community Feedback:** Our public space for research collaboration and bug reporting.
+
+### 🗄️ The Data Core
+The foundation of this project is built upon two distinct, high-integrity databases:
+* **OMNI_TITLES:** Our retail-focused database. This handles the "Storefront"—mapping games to developers, publishers, release dates, and regional variations.
+* **OMNI_DAT:** Our technical metadata core. This captures the "DNA" of the files themselves (hashes, header info, and file-level details) for absolute accuracy in digital preservation.
 
 ### Collaborative Research
 While I maintain the core code privately to ensure data integrity, Omni-Games is a collaborative effort. I am building this for the collectors, the preservationists, and the obscure Japanese veterans. Your feedback and testing are what drive this project forward.
