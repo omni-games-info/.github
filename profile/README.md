@@ -17,4 +17,8 @@ This organisation houses the various components that power Omni-Games:
 Collaborative Research
 While I maintain the core code privately to ensure data integrity, Omni-Games is a collaborative effort. I am building this for the collectors, the preservationists, and the obscure Japanese veterans. Your feedback and testing are what drive this project forward.
 
-**[Explore the Roadmap](https://github.com/users/h4o4/projects/2/views/4)** | **[Join the Discussion](https://github.com/h4o4/omni-games-community/discussions)**
+* **Got a Bug or Data Error?** Open an [Issue](https://github.com/omni-games-info/omni-games-community/issues).
+* **Want to chat about retro games?** Head over to [Discussions](https://github.com/omni-games-info/omni-games-community/discussions).
+* **See what's coming next:** Check out the [Public Roadmap](https://github.com/orgs/omni-games-info/projects/1).
+
+Thanks for helping me rebuild a cleaner, more accurate gaming history!
